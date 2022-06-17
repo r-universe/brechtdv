@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cystiSim"]
+	path = cystiSim
+	url = https://github.com/brechtdv/cystisim
+	shallow = true
+	registered = true
+[submodule "DALY"]
+	path = DALY
+	url = https://github.com/brechtdv/daly
+	shallow = true
+	registered = true
+[submodule "prevalence"]
+	path = prevalence
+	url = https://github.com/brechtdv/prevalence
+	shallow = true
+	registered = true
