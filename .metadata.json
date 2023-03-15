@@ -1,14 +1,14 @@
 [
   {
-    "package": "cystiSim",
-    "oncran": true
-  },
-  {
     "package": "DALY",
     "oncran": true
   },
   {
     "package": "prevalence",
+    "oncran": true
+  },
+  {
+    "package": "cystiSim",
     "oncran": true
   }
 ]
